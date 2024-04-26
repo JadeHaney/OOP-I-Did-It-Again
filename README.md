@@ -16,5 +16,5 @@ To use the Logo Generator, follow these steps:
 6. After providing all necessary information, the application will generate an SVG file named `logo.svg` in the root directory of the project.
 
 ## Video Walkthrough
-For a visual demonstration of how to use the Logo Generator, check out the video walkthrough [here](insert_your_video_link_here).
-
+For a visual demonstration of how to use the Logo Generator, check out the video walkthrough [here](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/54b0e524-aea2-44b2-y100-50a90a13aa67).
+[demo-screenshot](demo.png)
